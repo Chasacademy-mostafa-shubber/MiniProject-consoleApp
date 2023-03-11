@@ -120,7 +120,7 @@ namespace MiniProject.Data
             //Select index from project
             int selectIndexProject = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Select hours of");
+            Console.WriteLine("Select hours");
             //select hours to the project
             int hours = int.Parse(Console.ReadLine());
 
